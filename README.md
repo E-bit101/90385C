@@ -1,2 +1,3 @@
 # 90385C
-"Hello with a capital H, please, please, there we go, no, U"
+For linux users:
+sudo chmod a+rw /dev/ttyACM0 # Replace 0 with whatever port the robot is connected to
